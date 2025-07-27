@@ -49,13 +49,6 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavikanupuri&theme=algolia&row=1&column=6" />
-</p>
-
----
 
 ### 🔥 GitHub Streak:
 
@@ -65,10 +58,10 @@
 
 ---
 
-### 📈 Contribution Graph (Heatmap):
+### 📈 Contribution Activity (Heatmap Like LinkedIn):
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavikanupuri&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavikanupuri&theme=github-compact" />
 </p>
 
 ---
