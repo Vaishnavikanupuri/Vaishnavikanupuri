@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-
- 🔭 I’m currently working on mastering Data Structures & Algorithms and building Full Stack Web Projects.  
+🔭 I’m currently working on mastering Data Structures & Algorithms and building Full Stack Web Projects.  
 🌱 I’m currently learning React.js and building interactive UIs.  
 💬 Ask me about web development, debugging tricky JS errors, or how to start DSA as a beginner.  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaishnavikanupuri/) 
-⚡ Fun fact:I type faster than I can think. Sometimes that’s a bug.  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaishnavikanupuri/) • [Email](mailto:vaishnavikanupuri4@gmail.com)  
+⚡ Fun fact: I turn coffee into code and bugs into features 😄  
+
 
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Kanupuri</h1>
