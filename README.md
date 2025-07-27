@@ -4,7 +4,7 @@
  🔭 I’m currently working on mastering Data Structures & Algorithms and building Full Stack Web Projects.  
 🌱 I’m currently learning React.js and building interactive UIs.  
 💬 Ask me about web development, debugging tricky JS errors, or how to start DSA as a beginner.  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaishnavikanupuri/) • [Email](mailto:vaishnavikanupuri4@gmail.com)  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaishnavikanupuri/) • [Email] [vaishnavi@example.com](mailto:vaishnavi@example.com)  
 ⚡ Fun fact:I type faster than I can think. Sometimes that’s a bug.  
 
 
