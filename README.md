@@ -6,13 +6,16 @@
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaishnavikanupuri/) • [Email](mailto:vaishnavikanupuri4@gmail.com)  
 ⚡ Fun fact: I turn coffee into code and bugs into features 😄  
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vaishnavikanupuri&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavikanupuri" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Kanupuri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavikanupuri&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavikanupuri" /> </p>
 
 ---
 
@@ -26,29 +29,29 @@
 
 ---
 
-### 🛠 Languages and Tools:
+### 🛠 Top Skills:
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+
+### 📊 GitHub Profile Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaishnavikanupuri&show_icons=true&theme=radical" alt="Vaishnavi's GitHub Stats" />
 </p>
 
 ---
-
 
 ### 🔥 GitHub Streak:
 
@@ -58,7 +61,7 @@
 
 ---
 
-### 📈 Contribution Activity (Heatmap Like LinkedIn):
+### 📈 Contribution Activity (Heatmap like LinkedIn):
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavikanupuri&theme=github-compact" />
